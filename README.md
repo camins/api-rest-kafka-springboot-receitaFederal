@@ -1,6 +1,6 @@
 # Microsserviço Receita Federal
 
-Você já precisou tirar uma certidão de nascimento de um bebê que acabou de nascer? Já observou que o CPF é gerado nesse momento? Já pensou em como é gerado esse CPF e quem mantem esses registros?
+Você já precisou recorrer ao cartório para retirar uma certidão de nascimento de um bebê que acabou de nascer? Já pensou em como é gerado o CPF e quem é responsavel por manter esses registros?
 
 Esse microsserviço desempenha o papel da receita federal, gerando um CPF válido e único para cada requisição.
 
